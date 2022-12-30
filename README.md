@@ -1,4 +1,4 @@
-# store_sales_data_pipeline
+# Store Sales Data Pipeline
 
 * The data is going to be stored in hdfs every day.
 * In airflow there is a SparkSubmitOperator, which is going to trigger a spark application
