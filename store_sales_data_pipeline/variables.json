@@ -1,0 +1,8 @@
+{
+    "spark_configs_practice3": {
+        "spark.app.name": "Store Sales Data Pipeline"
+    },
+    "file_path": "/input/project1",
+    "spark_path": "/home/bishal/airflow/dags/store_sales_data_pipeline/lib/spark.py",
+    "output_folder_path": "hdfs:///output/project1"
+}
